@@ -1,22 +1,14 @@
 # heat-sensor
 
 > heat-sensor:
-> https://docs.google.com/document/d/1E___pbgmMP5mG_T8v7UkDBGXHsCU0eJ6UbHNjYaydLo/edit?tab=t.0
+https://docs.google.com/document/d/1E___pbgmMP5mG_T8v7UkDBGXHsCU0eJ6UbHNjYaydLo/edit?tab=t.0
 
 ![image](https://github.com/user-attachments/assets/62ebe4a3-2926-42fa-bcfd-d7aff5c74a21)
 
 > Content:
-
-
-
-
-
-
 Project EE1
 Heat Sensor Circuit
 ( Deadline dự tính: 1/1/2025) (5 tuần)
-
-
 		
 Chi tiết kế hoạch và phân công việc cụ thể
 I. Giai đoạn công việc (Dự tính - có thể sớm hơn)
@@ -57,8 +49,6 @@ Resistor 1k ohm
 6
 LED
 1
-
-
 
 III. Phân chia nhiệm vụ
 1. Thiết kế mạch (PCB)
